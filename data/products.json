@@ -1,0 +1,103 @@
+{
+  "negocio": "MTM Cavas Drink's",
+  "evento": "Retro Night Fest",
+  "moneda": "ARS",
+  "nota": "Creado y desarrollado por Fabricio Barreto - Desarrollos Web - FabricioBarreto2610@gmail.com",
+  "categorias": [
+    {
+      "nombre": "Cervezas",
+      "productos": [
+        {
+          "nombre": "Botella Corona 710ml",
+          "precio": 8000,
+          "imagen": "/products/corona-710.jpg"
+        },
+        {
+          "nombre": "Bajo Cero (vaso)",
+          "precio": 6000,
+          "imagen": "/products/bajo-cero.jpg"
+        },
+        {
+          "nombre": "Lata Quilmes 473ml",
+          "precio": 4000,
+          "imagen": "/products/quilmes-473.jpg"
+        }
+      ]
+    },
+    {
+      "nombre": "Combos",
+      "productos": [
+        {
+          "nombre": "Vino dulce (botella) + 2 Speed o Monster a eleccion",
+          "precio": 12000,
+          "imagen": "/products/vino-dulce-combo.jpg"
+        },
+        {
+          "nombre": "Chandon 2L + 2 Speed 473ml",
+          "precio": 30000,
+          "imagen": "/products/chandon-2l-combo.jpg"
+        },
+        {
+          "nombre": "Chandon 180ml + 1 Speed 473ml",
+          "precio": 15000,
+          "imagen": "/products/chandon-180-combo.jpg"
+        },
+        {
+          "nombre": "Gin Aconcagua + Paso de los Toros",
+          "precio": 45000,
+          "imagen": "/products/gin-aconcagua-combo.jpg"
+        },
+        {
+          "nombre": "Gin shelby + Paso de los Toros",
+          "precio": 38000,
+          "imagen": "/products/gin-shelby-combo.jpg"
+        }
+      ]
+    },
+    {
+      "nombre": "Tragos",
+      "productos": [
+        {
+          "nombre": "Fernet Branca (vaso)",
+          "precio": 10000,
+          "imagen": "/products/fernet-branca.jpg"
+        },
+        {
+          "nombre": "Gancia (vaso)",
+          "precio": 10000,
+          "imagen": "/products/gancia.jpg"
+        }
+      ]
+    },
+    {
+      "nombre": "Sin alcohol",
+      "productos": [
+        {
+          "nombre": "Coca Cola (vaso)",
+          "precio": 5000,
+          "imagen": "/products/coca-cola.jpg"
+        },
+        {
+          "nombre": "Sprite (vaso)",
+          "precio": 5000,
+          "imagen": "/products/sprite.jpg"
+        },
+        {
+          "nombre": "Agua mineral 500ml",
+          "precio": 2500,
+          "imagen": "/products/agua-mineral.jpg"
+        },
+        {
+          "nombre": "Lata Speed 473ml",
+          "precio": 4500,
+          "imagen": "/products/speed-473.jpg"
+        },
+        {
+          "nombre": "Lata Monster negro 473ml",
+          "precio": 4500,
+          "imagen": "/products/monster-473.jpg"
+        }
+      ]
+    }
+  ]
+}
