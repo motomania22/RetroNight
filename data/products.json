@@ -68,11 +68,11 @@
           "imagen": "/products/gancia.jpg"
         },        {
           "nombre": "Whiskey (vaso)",
-          "precio": 10000,
+          "precio": 8000,
           "imagen": "/products/whisky.jpg"
         },        {
           "nombre": "Whiscola (vaso)",
-          "precio": 10000,
+          "precio": 8000,
           "imagen": "/products/whiscola.jpg"
         }
       ]
