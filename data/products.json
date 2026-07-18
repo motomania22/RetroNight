@@ -14,7 +14,7 @@
         },
         {
           "nombre": "Lata Corona 473ml",
-          "precio": 4000,
+          "precio": 5000,
           "imagen": "/products/corona-473.jpg"
         },
         {
@@ -24,7 +24,7 @@
         },
         {
           "nombre": "Lata Quilmes 473ml",
-          "precio": 4000,
+          "precio": 3000,
           "imagen": "/products/quilmes-473.jpg"
         }
       ]
@@ -34,18 +34,18 @@
       "productos": [
         {
           "nombre": "Vino dulce (botella) + 2 Speed o Monster a eleccion",
-          "precio": 12000,
+          "precio": 15000,
           "imagen": "/products/vino-dulce-combo.jpg"
         },
         {
-          "nombre": "Chandon 2L + 2 Speed 473ml",
-          "precio": 30000,
-          "imagen": "/products/chandon-2l-combo.jpg"
+          "nombre": "Chandon 1.5L + 2 Speed 473ml",
+          "precio": 50000,
+          "imagen": "/products/chandon-1.5l-combo.jpg"
         },
         {
-          "nombre": "Chandon 180ml + 1 Speed 473ml",
-          "precio": 15000,
-          "imagen": "/products/chandon-180-combo.jpg"
+          "nombre": "Chandon 375ml + 1 Speed 473ml",
+          "precio": 22000,
+          "imagen": "/products/chandon-375-combo.jpg"
         },
         {
           "nombre": "Gin Aconcagua + Paso de los Toros",
@@ -99,7 +99,7 @@
         },
         {
           "nombre": "Agua mineral 500ml",
-          "precio": 3000,
+          "precio": 2000,
           "imagen": "/products/agua-mineral.jpg"
         },
         {
