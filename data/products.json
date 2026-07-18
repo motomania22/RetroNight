@@ -104,13 +104,18 @@
         },
         {
           "nombre": "Lata Speed 473ml",
-          "precio": 4500,
+          "precio": 4000,
           "imagen": "/products/speed-473.jpg"
         },
         {
           "nombre": "Lata Monster negro 473ml",
-          "precio": 4500,
+          "precio": 4000,
           "imagen": "/products/monster-473.jpg"
+        },
+        {
+          "nombre": "Vaso con hielo",
+          "precio": 2000,
+          "imagen": "/products/vaso-con-hielo.jpg"
         }
       ]
     }
