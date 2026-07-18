@@ -13,6 +13,11 @@
           "imagen": "/products/corona-710.jpg"
         },
         {
+          "nombre": "Lata Corona 473ml",
+          "precio": 4000,
+          "imagen": "/products/corona-473.jpg"
+        },
+        {
           "nombre": "Bajo Cero (vaso)",
           "precio": 6000,
           "imagen": "/products/bajo-cero.jpg"
@@ -66,11 +71,13 @@
           "nombre": "Gancia (vaso)",
           "precio": 10000,
           "imagen": "/products/gancia.jpg"
-        },        {
+        },
+        {
           "nombre": "Whiskey (vaso)",
           "precio": 8000,
           "imagen": "/products/whisky.jpg"
-        },        {
+        },
+        {
           "nombre": "Whiscola (vaso)",
           "precio": 8000,
           "imagen": "/products/whiscola.jpg"
@@ -82,17 +89,17 @@
       "productos": [
         {
           "nombre": "Coca Cola (vaso)",
-          "precio": 5000,
+          "precio": 6000,
           "imagen": "/products/coca-cola.jpg"
         },
         {
           "nombre": "Sprite (vaso)",
-          "precio": 5000,
+          "precio": 6000,
           "imagen": "/products/sprite.jpg"
         },
         {
           "nombre": "Agua mineral 500ml",
-          "precio": 2500,
+          "precio": 3000,
           "imagen": "/products/agua-mineral.jpg"
         },
         {

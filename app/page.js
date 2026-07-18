@@ -42,6 +42,8 @@ export default function Home() {
         </div>
       </header>
 
+      <ProductGallery categorias={data.categorias} />
+
       <section className="pago">
         <div className="pago-qr">
           <Image
@@ -61,8 +63,6 @@ export default function Home() {
           <p className="pago-alt">También aceptamos efectivo.</p>
         </div>
       </section>
-
-      <ProductGallery categorias={data.categorias} />
 
       <footer className="footer">
         <p>{data.nota}</p>
