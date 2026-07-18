@@ -81,6 +81,13 @@
           "nombre": "Whiscola (vaso)",
           "precio": 8000,
           "imagen": "/products/whiscola.jpg"
+        },
+        {
+          "nombre": "Tragos Varios",
+          "descripcion": "Daiquiri, Esperma de Pitufo y otros a elección",
+          "precio": 6000,
+          "precioTexto": "$6.000 uno · 2 x $10.000",
+          "imagen": "/products/tragos.jpg"
         }
       ]
     },

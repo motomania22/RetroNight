@@ -61,12 +61,15 @@ export default function ProductGallery({ categorias }) {
                   </button>
                   <div className="card-body">
                     <span className="card-name">{producto.nombre}</span>
+                    {producto.descripcion && (
+                      <span className="card-desc">{producto.descripcion}</span>
+                    )}
                     <span
                       className={`card-price ${
                         producto.precio == null ? "card-price-pending" : ""
                       }`}
                     >
-                      {formatARS(producto.precio)}
+                      {producto.precioTexto || formatARS(producto.precio)}
                     </span>
                   </div>
                 </div>
@@ -101,7 +104,12 @@ export default function ProductGallery({ categorias }) {
             />
             <div className="lightbox-caption">
               <span className="card-name">{zoomed.nombre}</span>
-              <span className="card-price">{formatARS(zoomed.precio)}</span>
+              {zoomed.descripcion && (
+                <span className="card-desc">{zoomed.descripcion}</span>
+              )}
+              <span className="card-price">
+                {zoomed.precioTexto || formatARS(zoomed.precio)}
+              </span>
             </div>
           </div>
         </div>
