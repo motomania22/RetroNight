@@ -73,7 +73,7 @@
           "imagen": "/products/gancia.jpg"
         },
         {
-          "nombre": "Whiskey (vaso)",
+          "nombre": "Whisky (vaso)",
           "precio": 8000,
           "imagen": "/products/whisky.jpg"
         },
@@ -111,6 +111,16 @@
           "nombre": "Lata Monster negro 473ml",
           "precio": 4000,
           "imagen": "/products/monster-473.jpg"
+        }
+      ]
+    },
+    {
+      "nombre": "Vasos",
+      "productos": [
+        {
+          "nombre": "Vaso",
+          "precio": 1000,
+          "imagen": "/products/vaso.jpg"
         },
         {
           "nombre": "Vaso con hielo",
