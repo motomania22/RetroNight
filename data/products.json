@@ -33,6 +33,11 @@
           "imagen": "/products/vino-dulce-combo.jpg"
         },
         {
+          "nombre": "Latitud 33 Sweet x750ml + 2 Speed",
+          "precio": 18000,
+          "imagen": "/products/latitud33-combo.jpg"
+        },
+        {
           "nombre": "Chandon 375ml + 1 Speed 473ml",
           "precio": 22000,
           "imagen": "/products/chandon-375-combo.jpg"
