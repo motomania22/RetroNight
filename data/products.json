@@ -21,11 +21,6 @@
           "nombre": "Imperial Golden (vaso)",
           "precio": 6000,
           "imagen": "/products/imperial-golden.jpg"
-        },
-        {
-          "nombre": "Lata Quilmes 473ml",
-          "precio": 3000,
-          "imagen": "/products/quilmes-473.jpg"
         }
       ]
     },
@@ -46,16 +41,6 @@
           "nombre": "Chandon 375ml + 1 Speed 473ml",
           "precio": 22000,
           "imagen": "/products/chandon-375-combo.jpg"
-        },
-        {
-          "nombre": "Gin Aconcagua + Paso de los Toros",
-          "precio": 45000,
-          "imagen": "/products/gin-aconcagua-combo.jpg"
-        },
-        {
-          "nombre": "Gin shelby + Paso de los Toros",
-          "precio": 38000,
-          "imagen": "/products/gin-shelby-combo.jpg"
         }
       ]
     },
@@ -81,13 +66,6 @@
           "nombre": "Whiscola (vaso)",
           "precio": 8000,
           "imagen": "/products/whiscola.jpg"
-        },
-        {
-          "nombre": "Tragos Varios",
-          "descripcion": "Daiquiri, Esperma de Pitufo y otros a elección",
-          "precio": 6000,
-          "precioTexto": "$6.000 uno · 2 x $10.000",
-          "imagen": "/products/tragos.jpg"
         }
       ]
     },
